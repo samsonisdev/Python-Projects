@@ -1,3 +1,5 @@
+# This program is a quiz game. This program asks the user some questions, checks if their answers are correct and prints their score.
+
 print("Welcome to my computer quiz!")
 
 playing = input("Do you want to play?: ")
