@@ -1,3 +1,6 @@
+# This is a Password Manager Program. This program asks the user if they want to create a new password or view their existing/already made ones
+# and saves the new passwords to a .txt file
+
 master_pass = input("What's the master password? ")
 
 def create():
