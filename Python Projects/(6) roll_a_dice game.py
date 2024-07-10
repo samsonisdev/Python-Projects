@@ -1,3 +1,6 @@
+# This is a Roll a Dice Game. This program asks the user to enter number of players. The program works for the number of players the user enters
+# giving each person a turn. This program adds the points of the dice the user rolls and tells who's the winner among the given number of players.  
+
 import random
 
 play = input("Would you like to play Roll a Dice? ").lower()
