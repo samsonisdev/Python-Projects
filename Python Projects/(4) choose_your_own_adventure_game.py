@@ -1,3 +1,5 @@
+# This is an Adventure Game. This program works on nested if/else conditions and leads the user to different adventures 
+
 play = input("Do you want to play a game? ")
 if play.lower() != 'yes':
     quit()
