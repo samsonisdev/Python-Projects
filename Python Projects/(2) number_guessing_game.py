@@ -1,3 +1,5 @@
+# This is a Number Guessing Game. This program generates a random number, asks the user to guess that number and prints the number of guesses by the user
+
 import random
 
 play = input("Do you want to play a game? ")
