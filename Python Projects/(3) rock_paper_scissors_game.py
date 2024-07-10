@@ -1,3 +1,6 @@
+# This is Rock, Paper, Scissors Game. This program asks the user to enter rock, paper or scissors and generates one of the options on its own randomly 
+# and prints whoever wins or if thats A tie.
+
 import random
 
 user_wins = 0
